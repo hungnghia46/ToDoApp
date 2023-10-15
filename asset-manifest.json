@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/ToDo/static/js/main.e1d18ea7.js",
-    "index.html": "/ToDo/index.html",
-    "main.e1d18ea7.js.map": "/ToDo/static/js/main.e1d18ea7.js.map"
+    "main.js": "/todo/static/js/main.e1d18ea7.js",
+    "index.html": "/todo/index.html",
+    "main.e1d18ea7.js.map": "/todo/static/js/main.e1d18ea7.js.map"
   },
   "entrypoints": [
     "static/js/main.e1d18ea7.js"
